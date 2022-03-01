@@ -1,0 +1,37 @@
+body {
+background:linear-gradient(68.15deg, #940909 16.62%, #1916c2 85.61%);
+font: normal 15pt arial;
+}
+
+header {
+    color: rgb(124, 122, 119);
+    text-align: center;
+
+
+}
+
+section{
+    background: rgb(193, 207, 205);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: rgb(6, 6, 12);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616)
+
+    
+
+
+}
+select#flista {
+    width: 28%;
+
+}
+footer{
+    color: blanchedalmond;
+    text-align: center;
+    font-style: italic;
+
+
+
+}
